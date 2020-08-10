@@ -4,7 +4,7 @@ I'm Pi Esposito, a Deep Learning and Software Engineer.
 
 
 - <img height="15" src="https://logodownload.org/wp-content/uploads/2014/04/Intel-logo-5.png"> Deep Learning Engineering Intern at [Intel Corporation](intel.com/)
-- <img height="15" src="https://logodownload.org/wp-content/uploads/2014/04/Intel-logo-5.png"> AI Student Ambassedor at [Intel Corporation](intel.com/)
+- <img height="15" src="https://logodownload.org/wp-content/uploads/2014/04/Intel-logo-5.png"> AI Student Ambassador at [Intel Corporation](intel.com/)
 
 
 ## Things I am passionate about
