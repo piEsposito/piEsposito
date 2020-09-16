@@ -10,7 +10,7 @@ I'm Pi Esposito, a Deep Learning and Software Engineer.
 ## Things I am passionate about
 
 - 🤖 Deep Learning
-- 💻 Full Stack Software Engineering 
+- 💻 Software Engineering and Web development
 
 ## Tools I like to use
 - <img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"> PyTorch
