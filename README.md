@@ -10,7 +10,7 @@ I'm Pi Esposito, a Data Scientist and Deep Learning Engineering.
 ## Things I am passionate about
 
 - 🤖 Deep Learning
-- 💻 Software Engineering ML deployment
+- 💻 ML Deployment
 
 ## Tools I like to use
 - <img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"> PyTorch
