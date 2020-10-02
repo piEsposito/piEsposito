@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-I'm Pi Esposito, a Deep Learning and Software Engineer.
+I'm Pi Esposito, a Data Scientist and Deep Learning Engineering.
 
-
-- <img height="15" src="https://logodownload.org/wp-content/uploads/2014/04/Intel-logo-5.png"> Deep Learning Engineering Intern at [Intel Corporation](intel.com/)
+- <img height="35" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFC1zo6_LN_XQ/company-logo_200_200/0?e=1609977600&v=beta&t=_6ZQjUCWfsutmyot4Dj74ewVHxz_lWHhA7xts1xEah4"> Data Scientist at [Semantix](semantix.com.br)
+- <img height="15" src="https://logodownload.org/wp-content/uploads/2014/04/Intel-logo-5.png"> Former Deep Learning Engineering Intern at [Intel Corporation](intel.com/) (08/2019 - 10/2020)
 - <img height="15" src="https://logodownload.org/wp-content/uploads/2014/04/Intel-logo-5.png"> AI Student Ambassador at [Intel Corporation](intel.com/)
 
 
 ## Things I am passionate about
 
 - 🤖 Deep Learning
-- 💻 Software Engineering and Web development
+- 💻 Software Engineering ML deployment
 
 ## Tools I like to use
 - <img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"> PyTorch
