@@ -15,12 +15,10 @@ I'm Pi Esposito, a Data Scientist and Deep Learning Engineer.
 ## Tools I like to use
 - <img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"> PyTorch
 - <img height="20" src="https://banner2.cleanpng.com/20180731/tzw/kisspng-gopher-docker-computer-programming-clojure-5b60bcbbaea281.7058312815330664277153.jpg"> Golang
-- <code><img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
-<code><img height="15" src="https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs.jpg"></code> for Web app development
+- <code><img height="15" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e0a328bedb754beb8a973f9_logomark_website.png"> </code> Streamlit
 - <code><img height="15" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>
 <code><img height="15" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></code>
-<code><img height="15" src="https://opencv.org/wp-content/uploads/2019/05/openvino-logo.png"></code> for Deep Learning deployment
+<code><img height="15" src="https://opencv.org/wp-content/uploads/2019/05/openvino-logo.png"></code> for ML Deployment
 
 ## Project I'm proud of:
  - <img height="20" src="https://img.pngio.com/the-bell-curve-normal-distribution-grading-on-a-curve-average-normal-distribution-png-900_720.jpg"> [BLiTZ](https://github.com/piEsposito/blitz-bayesian-deep-learning/) - A Bayesian Deep Learning lib on the top of PyTorch
