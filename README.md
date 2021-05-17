@@ -4,7 +4,7 @@ I'm Pi Esposito, a Data Scientist and Deep Learning Engineer.
 
 - <img height="25" src="https://assets-global.website-files.com/5f7f443b4d17be85c084ffe3/5f7f443b4d17be798184ffec_logo_acordoCerto.svg"> Data Scientist at [Acordo Certo](https://www.acordocerto.com.br/)
 - <img height="15" src="https://logodownload.org/wp-content/uploads/2014/04/Intel-logo-5.png"> Former Deep Learning Engineering Intern at [Intel Corporation](intel.com/) (08/2019 - 10/2020)
-- <img height="15" src="https://logodownload.org/wp-content/uploads/2014/04/Intel-logo-5.png"> AI Student Ambassador at [Intel Corporation](intel.com/)
+- <img height="15" src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png"> Google Developer Expert in Machine Learning
 
 
 ## Things I am passionate about
