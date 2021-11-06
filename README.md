@@ -18,7 +18,7 @@ I'm Pi Esposito, a Software and MLOps Engineer. I like to build stuff.
 - <img height="20" src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png"> <img height="20" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png"> <img height="20" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png"> Airflow, Kubernetes and GCP no manage Machine Learning Operations
 - Actually whatever I need to build my stuff.
 
-## Project I'm proud of:
+## The nice one thing I built:
  - <img height="20" src="https://img.pngio.com/the-bell-curve-normal-distribution-grading-on-a-curve-average-normal-distribution-png-900_720.jpg"> [BLiTZ](https://github.com/piEsposito/blitz-bayesian-deep-learning/) - A Bayesian Deep Learning lib on the top of PyTorch
  
  
