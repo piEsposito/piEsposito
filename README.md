@@ -20,3 +20,5 @@ I'm Pi Esposito, a Software and MLOps Engineer. I like to build stuff.
 
 ## The nice one thing I built:
  - <img height="20" src="https://img.pngio.com/the-bell-curve-normal-distribution-grading-on-a-curve-average-normal-distribution-png-900_720.jpg"> [BLiTZ](https://github.com/piEsposito/blitz-bayesian-deep-learning/) - A Bayesian Deep Learning lib on the top of PyTorch
+
+![](https://github.com/piEsposito/github-stats/blob/master/generated/overview.svg)
