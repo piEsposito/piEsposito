@@ -5,7 +5,7 @@ I'm Pi Esposito, AI Engineer [@printbear](https://github.com/printbear) and Goog
 
 ## About me
 
-I´m a computer nerd.
+computer nerd.
 
 
 ## I built this thing:
