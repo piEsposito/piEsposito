@@ -1,7 +1,6 @@
 ### Hello there!
 
-I'm Pi Esposito, AI Engineer [@printbear](https://github.com/printbear) and Google Developer Expert in Machine Learning.
-
+I'm Pi Esposito, Machine Learning Engineer.
 
 ## About me
 
