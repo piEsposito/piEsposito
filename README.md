@@ -6,7 +6,4 @@ I'm Pi Esposito, Machine Learning Engineer.
 
 computer nerd.
 
-
-## I built this thing:
-
-[BLiTZ](https://github.com/piEsposito/blitz-bayesian-deep-learning/) - A Bayesian Deep Learning lib on the top of PyTorch
+I built [BLiTZ](https://github.com/piEsposito/blitz-bayesian-deep-learning/), Bayesian Deep Learning lib on the top of PyTorch
