@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm Pi Esposito, Machine Learning Engineer.
+I'm Pi Esposito, AI Engineer.
 
 ## About me
 
