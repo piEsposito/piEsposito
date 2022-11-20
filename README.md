@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm Pi Esposito, AI Engineer.
+I'm Pi Esposito, ai computer nerd.
 
 ## About me
 
